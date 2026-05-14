@@ -1,7 +1,6 @@
-import React, { useEffect, useMemo, useState } from "react";
+import  { useEffect, useMemo, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import {
-  LinkedIn,
   Mail,
   Phone,
   MapPin,
@@ -631,7 +630,7 @@ function App() {
               rel="noreferrer"
               className="rounded-2xl border border-white/15 bg-white/10 px-6 py-3 font-bold text-white transition hover:-translate-y-1 hover:border-cyan-300"
             >
-              <LinkedIn className="mr-2 inline h-4 w-4" /> LinkedIn
+               LinkedIn
             </a>
           </div>
           <div className="mt-8 grid gap-3 text-sm text-slate-300 md:grid-cols-3">
