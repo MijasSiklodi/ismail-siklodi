@@ -1,4 +1,4 @@
-import { Mail, Phone, MapPin, Link2   } from "lucide-react";
+import { Mail, Phone, MapPin, Link2 } from "lucide-react";
 
 export default function Contact() {
   return (
@@ -34,15 +34,21 @@ export default function Contact() {
         </div>
 
         <div className="mt-8 grid gap-3 text-sm text-slate-300 md:grid-cols-3">
-          <p>
+          <a
+            href="tel:+918689852249"
+            className="transition hover:text-cyan-300"
+          >
             <Phone className="mr-2 inline h-4 w-4 text-cyan-300" />
             +91 8689852249
-          </p>
+          </a>
 
-          <p>
+          <a
+            href="mailto:siklodiismail1@gmail.com"
+            className="transition hover:text-cyan-300"
+          >
             <Mail className="mr-2 inline h-4 w-4 text-cyan-300" />
             siklodiismail1@gmail.com
-          </p>
+          </a>
 
           <p>
             <MapPin className="mr-2 inline h-4 w-4 text-cyan-300" />
