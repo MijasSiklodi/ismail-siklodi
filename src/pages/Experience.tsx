@@ -30,7 +30,6 @@ const experience = [
       "Worked on production-grade mobile banking systems used by real customers across Android, iOS, and Web platforms.",
     ],
   },
-
   {
     role: "Software Developer",
     company: "Citiustech Healthcare Technology Pvt. Ltd",
@@ -70,7 +69,7 @@ const experience = [
   {
     role: "Frontend Developer",
     company: "The Animator",
-    period: "Jun 2018 - Sep 2019",
+    period: "Feb 2019 - Sep 2019",
 
     points: [
       "Developed frontend mobile applications for Hu Boricha, Deshalpur, and Pragpur projects using Ionic Framework and Angular.",
@@ -82,11 +81,10 @@ const experience = [
       "Worked closely with designers and backend developers to deliver scalable mobile app experiences.",
     ],
   },
-
   {
     role: "Frontend & Mobile App Developer",
     company: "Sutra InfoTech",
-    period: "Nov 2017 - May 2018",
+    period: "May 2018 - Sep 2018",
 
     points: [
       "Built beacon-based Android and iOS marketing applications focused on location-aware customer engagement.",
@@ -102,7 +100,7 @@ const experience = [
   {
     role: "Android & Web Developer",
     company: "Intelliconnect Technologies",
-    period: "Jun 2017 - Oct 2017",
+    period: "Apr 2017 - Apr 2018",
 
     points: [
       "Developed Way2Freedom Android application using Java, Android Studio, and Node.js for managing meetings, reminders, and customer interactions.",
